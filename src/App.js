@@ -32,7 +32,7 @@ function App() {
       </Navbar>
 
       <Routes>
-        <Route path='/shop' element={
+        <Route path='/' element={
 
           <Container>
 
